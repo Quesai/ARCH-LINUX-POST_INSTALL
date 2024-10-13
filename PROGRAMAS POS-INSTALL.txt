@@ -1,0 +1,8 @@
+## PROGRAMAS POS-INSTALL
+sudo pacman -S  engrampa git nano  curl neofetch ffmpeg gst-plugins-ugly gst-plugins-good gst-plugins-base gst-plugins-bad gst-libav gstreamer gufw npm
+
+## Pelo repositorio snap
+notes, spotify, vscode
+
+## Driver preciso para intel
+xf86-video-intel
